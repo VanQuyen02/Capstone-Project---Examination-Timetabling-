@@ -44,6 +44,8 @@
 ##### 3.3.2 Best Result Analysis
 We have reach our target of balancing all stakeholders participating in problem as expectation.
 ![image](https://github.com/VanQuyen02/Capstone-Project---Examination-Timetabling-/assets/95958989/e4031077-acbd-4a50-93df-e6e127b9b544)
-
-
 ### 4. Conclusion and Future Work
+     Addressing the scheduling challenges of exams by integrating game theory – Nash Equilibrium with a Genetic Algorithm and Tabu Search framework.
+     Tabu Search has better performance than Genetic Algorithm.
+     Future research could explore a hybrid model that combine the strengths of GA and Tabu Search
+     Incorporating a wider range of constraints and objectives, such as: invigilator preferences
