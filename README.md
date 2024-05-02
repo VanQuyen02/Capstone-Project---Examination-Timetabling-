@@ -49,3 +49,6 @@ We have reach our target of balancing all stakeholders participating in problem 
      Tabu Search has better performance than Genetic Algorithm.
      Future research could explore a hybrid model that combine the strengths of GA and Tabu Search
      Incorporating a wider range of constraints and objectives, such as: invigilator preferences
+### 5. Demo
+We use Tinker Library to visulize Schedule of each student and each Invigilator for Searching.
+We export csv file to save plan aftern scheduling optimization.
